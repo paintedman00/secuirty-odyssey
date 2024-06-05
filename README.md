@@ -335,8 +335,6 @@ Most assessments involve the following things:
 
 ## Netcat
 
-Detailed cheat sheet available here: [Netcat Cheat Sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf).
-
 ### Basic Client
 
 ```bash
