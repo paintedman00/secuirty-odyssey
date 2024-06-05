@@ -333,20 +333,6 @@ Most assessments involve the following things:
 - persistence
 - privilege escalation
 
-## Netcat
-
-### Basic Client
-
-```bash
-$ nc [IP] [PORT]
-```
-
-### Basic Listener
-
-```bash
-$ nc -lp [PORT]
-```
-
 ### File Transfer
 
 Setup a listener:
