@@ -11,18 +11,17 @@
 7. [Gobuster](#gobuster)
 8. [Hashcat](#hashcat)
 9. [Identifying Hashes](#identifying-hashes)
-10. [Installation](#installation)
-11. [John the Ripper](#john-the-ripper)
-12. [Linux Enumeration](#linux-enumeration)
-13. [Methodology Checklist](#methodology-checklist)
-14. [Netcat](#netcat)
-15. [nmap](#nmap)
-16. [Post Exploitation](#post-exploitation)
-17. [Reconnaissance](#reconnaissance)
-18. [Reverse Shells](#reverse-shells)
-19. [SMB Enumeration](#smb-enumeration)
-20. [SMBClient](#smbclient)
-21. [SMBMap](#smbmap)
+10. [John the Ripper](#john-the-ripper)
+11. [Linux Enumeration](#linux-enumeration)
+12. [Methodology Checklist](#methodology-checklist)
+13. [Netcat](#netcat)
+14. [nmap](#nmap)
+15. [Post Exploitation](#post-exploitation)
+16. [Reconnaissance](#reconnaissance)
+17. [Reverse Shells](#reverse-shells)
+18. [SMB Enumeration](#smb-enumeration)
+19. [SMBClient](#smbclient)
+20. [SMBMap](#smbmap)
 
 ## Common Ports
 
@@ -232,15 +231,6 @@ Run this command to find a list of potential hashing algorithms:
 
 ```bash
 $ hashid [HASH]
-```
-
-## Installation
-
-### Kali Linux
-
-```bash
-$ sudo apt-get install gobuster
-$ sudo apt install nmap
 ```
 
 ## John the Ripper
